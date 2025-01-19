@@ -23,6 +23,7 @@
   z-index: auto;
   background: #1c1c1c;
   overflow: hidden;
+  margin-right: 0px;
   padding: 0px 32px 64px;
 }
 .headerHeroSection > :global(.__wab_flex-container) {
